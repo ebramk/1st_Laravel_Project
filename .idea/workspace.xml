@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="307c1838-272b-42f7-854f-83977c8ae980" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/includes/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/head.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/projects.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="307c1838-272b-42f7-854f-83977c8ae980" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/default.blade.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/projects.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="45">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -77,11 +74,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/header.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/footer.blade.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -113,7 +105,6 @@
       <list>
         <option value="$PROJECT_DIR$/resources/views/about.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/includes/footer.blade.php" />
         <option value="$PROJECT_DIR$/includes/head.blade.php" />
         <option value="$PROJECT_DIR$/includes/header.blade.php" />
@@ -124,6 +115,7 @@
         <option value="$PROJECT_DIR$/layouts/sidebar.blade.php" />
         <option value="$PROJECT_DIR$/pages/about.blade.php" />
         <option value="$PROJECT_DIR$/pages/projects.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
       </list>
     </option>
   </component>
@@ -248,6 +240,11 @@
             <path>
               <item name="is601laravel" type="b2602c69:ProjectViewProjectNode" />
               <item name="is601laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="is601laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="is601laravel" type="462c0819:PsiDirectoryNode" />
               <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -308,7 +305,7 @@
       <workItem from="1552669256604" duration="583000" />
       <workItem from="1552676333783" duration="519000" />
       <workItem from="1552739819704" duration="3576000" />
-      <workItem from="1552756587434" duration="2070000" />
+      <workItem from="1552756587434" duration="2607000" />
     </task>
     <task id="LOCAL-00001" summary="first laravel commit">
       <created>1552578304146</created>
@@ -338,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552756693430</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added code snippets as per the tutorial.">
+      <created>1552758838700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552758838700</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14631000" />
+    <option name="totallyTimeSpent" value="15168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="733" height="575" extended-state="6" />
@@ -377,16 +381,10 @@
     <MESSAGE value="modified the welcome and about page" />
     <MESSAGE value="Created welcome and about page. Will start using the tutorial for the assignment." />
     <MESSAGE value="added required files." />
-    <option name="LAST_COMMIT_MESSAGE" value="added required files." />
+    <MESSAGE value="added code snippets as per the tutorial." />
+    <option name="LAST_COMMIT_MESSAGE" value="added code snippets as per the tutorial." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/about.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
@@ -454,8 +452,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/projects.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
