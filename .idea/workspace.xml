@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="307c1838-272b-42f7-854f-83977c8ae980" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/is601laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/is601laravel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +15,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="493">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/default.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -52,9 +55,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/about.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
       </list>
     </option>
   </component>
@@ -140,10 +143,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="622" />
-    <option name="y" value="181" />
-    <option name="width" value="713" />
-    <option name="height" value="593" />
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="733" />
+    <option name="height" value="575" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -158,27 +161,6 @@
             <path>
               <item name="is601laravel" type="b2602c69:ProjectViewProjectNode" />
               <item name="is601laravel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="is601laravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="is601laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="is601laravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="is601laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="is601laravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="is601laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="is601laravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="is601laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="is601laravel" type="b2602c69:ProjectViewProjectNode" />
@@ -237,7 +219,7 @@
       <workItem from="1552533450183" duration="6924000" />
       <workItem from="1552669256604" duration="583000" />
       <workItem from="1552676333783" duration="519000" />
-      <workItem from="1552739819704" duration="1201000" />
+      <workItem from="1552739819704" duration="3576000" />
     </task>
     <task id="LOCAL-00001" summary="first laravel commit">
       <created>1552578304146</created>
@@ -253,16 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1552591095170</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created welcome and about page. Will start using the tutorial for the assignment.">
+      <created>1552753199378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552753199379</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10186000" />
+    <option name="totallyTimeSpent" value="12561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="1658" height="1309" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31273887" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31273887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -275,7 +264,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.39213806" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.39213806" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,13 +278,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first laravel commit" />
     <MESSAGE value="modified the welcome and about page" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified the welcome and about page" />
+    <MESSAGE value="Created welcome and about page. Will start using the tutorial for the assignment." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created welcome and about page. Will start using the tutorial for the assignment." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="493">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -312,6 +302,9 @@
           <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/default.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
