@@ -17,6 +17,6 @@ Route::get('contact', function()
     return View::make('pages.contact');
 });
 
-Route::get('/connect', function () {
+Route::get('connect', function () {
     return view('pages.connect');
 });
