@@ -13,7 +13,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="/connect">Connect</a>
+                    <a class="nav-link" href="/about">About</a>
                 </li>
 
             </ul>
