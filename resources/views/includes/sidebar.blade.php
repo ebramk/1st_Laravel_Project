@@ -1,8 +1,4 @@
-<!-- sidebar nav -->
-<nav id="sidebar-nav">
-    <ul class="nav nav-pills nav-stacked">
-        <li><a href="#">Fly to the Moon</a></li>
-        <li><a href="#">Dig to China</a></li>
-        <li><a href="#">Swim Across the Sea</a></li>
-    </ul>
-</nav>
+<div class="sidebar-module sidebar-module-inset">
+    <h4>About</h4>
+    <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+</div>
