@@ -1,7 +1,7 @@
 <header>
     <nav class="navbar navbar-expand-sm navbar-dark bg-primary fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="/">Learana</a>
+            <a class="navbar-brand" href="/">Ebram Kerolos</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                     aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
