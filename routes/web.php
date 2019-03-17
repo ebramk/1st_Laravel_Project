@@ -12,9 +12,9 @@ Route::get('projects', function()
 {
     return View::make('pages.projects');
 });
-Route::get('contact', function()
+Route::get('connect', function()
 {
-    return View::make('pages.contact');
+    return View::make('pages.connect');
 });
 
 Route::get('connect', function () {
