@@ -16,7 +16,6 @@ Route::get('connect', function()
 {
     return View::make('pages.connect');
 });
-
 Route::get('connect', function () {
     return view('pages.connect');
 });
